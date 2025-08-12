@@ -7,6 +7,7 @@
 
 ## Karam Dosa
 - Dosa Batter
+<<<<<<< HEAD
 - MTR Red Karam
 - Red and Green Chutney
 
@@ -24,3 +25,6 @@
 - Dosa Batter
 - Ghee
 - Karam
+=======
+- MTR Red Karam
+>>>>>>> 563758e (karam dosa started, MTR Red karam added)
