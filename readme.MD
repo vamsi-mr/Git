@@ -3,3 +3,6 @@
 ## Plain Dosa
 - Dosa batter
 - Light oil added to dosa
+
+## Karam Dosa
+- Dosa Batter
