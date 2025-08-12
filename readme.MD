@@ -10,5 +10,5 @@
 
 ## Egg Dosa
 - Dosa Batter
-- 2 Eggs, Karam and Oil
+- 1/2 Egg, Karam and Oil
 - Chutney
