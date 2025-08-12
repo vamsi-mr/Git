@@ -1,4 +1,5 @@
 ## Dosa Shop
 
 ## Plain Dosa
-## Dosa batter
+- Dosa batter
+- Light oil added to dosa
