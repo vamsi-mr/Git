@@ -7,3 +7,8 @@
 ## Karam Dosa
 - Dosa Batter
 - MTR Red Karam
+
+## Egg Dosa
+- Dosa Batter
+- 2 Eggs, Karam and Oil
+- Chutney
