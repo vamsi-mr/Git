@@ -1,10 +1,9 @@
 ## Dosa Shop
 
 ## Plain Dosa
-- Dosa batter
+- Dosa Batter
 - Light oil added to dosa
 - Red and Green Chutney
-
 
 ## Karam Dosa
 - Dosa Batter
@@ -15,3 +14,6 @@
 - Dosa Batter
 - 1/2 Egg, Karam and Oil
 - Red and Green Chutney
+
+## Masala Dosa
+- Dosa Batter
