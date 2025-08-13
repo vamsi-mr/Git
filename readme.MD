@@ -17,3 +17,5 @@
 
 ## Masala Dosa
 - Dosa Batter
+- Masala Curry
+- Red and Green Chutney
