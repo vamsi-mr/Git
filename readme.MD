@@ -15,3 +15,8 @@
 - Dosa Batter
 - 1/2 Egg, Karam and Oil
 - Red and Green Chutney
+
+## Masala Dosa
+- Masala
+- Dosa Batter
+- Red and Green Chutney
