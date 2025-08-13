@@ -1,10 +1,9 @@
 ## Dosa Shop
 
 ## Plain Dosa
-- Dosa batter
+- Dosa Batter
 - Light oil added to dosa
 - Red and Green Chutney
-
 
 ## Karam Dosa
 - Dosa Batter
@@ -17,6 +16,6 @@
 - Red and Green Chutney
 
 ## Masala Dosa
-- Masala
 - Dosa Batter
+- Masala Curry
 - Red and Green Chutney
