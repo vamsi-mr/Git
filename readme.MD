@@ -19,3 +19,7 @@
 - Dosa Batter
 - Masala Curry
 - Red and Green Chutney
+
+## Ghee Karam Dosa
+- Dosa Batter
+- Ghee
