@@ -19,3 +19,9 @@
 - Dosa Batter
 - Masala Curry
 - Red and Green Chutney
+
+## Panner Dosa
+- Dosa Batter
+- Panner
+- Carrat and Onion
+- Ghee
