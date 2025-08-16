@@ -24,7 +24,4 @@
 ## Ghee Karam Dosa
 - Dosa Batter
 - Ghee
-- Karam
-=======
 - MTR Red Karam
->>>>>>> 563758e (karam dosa started, MTR Red karam added)
